@@ -1,3 +1,4 @@
 # first-git-demo
 first demo project
-author : sandeep sharma
+author : sandeep 
+updated from local
